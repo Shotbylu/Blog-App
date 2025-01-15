@@ -11,7 +11,7 @@ function Footer() {
           <p className="text-gray-50 text-sm text-center sm:text-left">
             © {year} Bits-Of-C0de —
             <a
-              href="https://twitter.com/soumyajit4419"
+              href="https://twitter.com/shotbylu"
               rel="noopener noreferrer"
               className="text-gray-50 ml-1"
               target="_blank"
