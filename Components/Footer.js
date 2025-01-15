@@ -16,13 +16,13 @@ function Footer() {
               className="text-gray-50 ml-1"
               target="_blank"
             >
-              @Soumyajit
+              @Lungelo Sibisi
             </a>
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
             <a
               className="text-gray-50"
-              href="https://twitter.com/soumyajit4419"
+              href="https://twitter.com/shotbylu"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -30,7 +30,7 @@ function Footer() {
             </a>
             <a
               className="ml-4 text-gray-50"
-              href="https://github.com/soumyajit4419"
+              href="https://github.com/shotbylu"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -38,7 +38,7 @@ function Footer() {
             </a>
             <a
               className="ml-4 text-gray-50"
-              href="https://www.instagram.com/soumyajit4419/"
+              href="https://www.instagram.com/shotbylu/"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -46,7 +46,7 @@ function Footer() {
             </a>
             <a
               className="ml-4 text-gray-50"
-              href="https://www.linkedin.com/in/soumyajit4419/"
+              href="https://www.linkedin.com/in/lungelo-sibisi-6745aa21b/"
               rel="noopener noreferrer"
               target="_blank"
             >
